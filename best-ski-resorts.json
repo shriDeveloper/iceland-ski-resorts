@@ -1,0 +1,64 @@
+{
+    "best_ski_resorts_in_iceland": [
+        {
+            "name": "Hlíðarfjall",
+            "location": "Akureyri",
+            "highlights": [
+                "Highest ski resort in Iceland",
+                "Altitude of 1,014 meters",
+                "Open from November to May",
+                "Voted one of top 12 exotic ski locations by Lonely Planet"
+            ],
+            "type": "Alpine Ski Resort",
+            "best_for": ["Local skiing", "Winter sports enthusiasts"]
+        },
+        {
+            "name": "Bláfjöll",
+            "location": "Near Reykjavík",
+            "highlights": [
+                "Closest ski area to Reykjavík",
+                "Popular among locals",
+                "Multiple ski lifts",
+                "Good for beginners and intermediate skiers"
+            ],
+            "type": "Family-friendly Ski Area",
+            "best_for": ["Weekend skiing", "Family outings"]
+        },
+        {
+            "name": "Skálafell",
+            "location": "Near Reykjavík",
+            "highlights": [
+                "Small, intimate ski area",
+                "Good snow conditions",
+                "Less crowded than Bláfjöll",
+                "Suitable for all skill levels"
+            ],
+            "type": "Community Ski Resort",
+            "best_for": ["Locals", "Casual skiers"]
+        },
+        {
+            "name": "Troll Peninsula (Heliskiing)",
+            "location": "North Iceland",
+            "highlights": [
+                "Unique heliskiing experience",
+                "Pristine untouched powder",
+                "Spectacular mountain and coastal views",
+                "Advanced and expert skiers"
+            ],
+            "type": "Backcountry/Heliskiing",
+            "best_for": ["Advanced skiers", "Adventure seekers"]
+        },
+        {
+            "name": "Dalvík Ski Resort",
+            "location": "Dalvík",
+            "highlights": [
+                "Small local ski area",
+                "Good for family skiing",
+                "Beautiful surrounding landscape",
+                "Affordable skiing options"
+            ],
+            "type": "Local Ski Area",
+            "best_for": ["Families", "Beginners"]
+        }
+    ]
+}
